@@ -1,6 +1,8 @@
 # 👩🏻‍💻 João Pedro
 
 **`Desenvolvedor FullStack`**
+
+--
 <p>
     Me chamo João Pedro, tenho 15 anos, sou estudante do curso técnico <strong>Desenvolvimento de Sistemas</strong>, iniciei na área durante esse ano e desde então venho buscado crescimento, com estudos dentro da área de back-end e front-end.
 </p>
